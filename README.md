@@ -1,2 +1,2 @@
 # valonamendonca.github.io
-Portfolio using React Js
+Portfolio using React JS
